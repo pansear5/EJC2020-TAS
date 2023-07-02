@@ -1,0 +1,119 @@
+unsafe
+
+#Start from new file
+#on Begin
+read,0 - newfile
+
+
+#console load EJRCompetitionSeptember2020/0-Lobbies/1-Main
+#   1
+
+   1
+read,1 - Start-OkNano.tas,Start
+read,OkNano.tas,Start
+  30
+   1,J,O
+  32
+read,2 - OkNano-Emmabellotti.tas,Start
+read,Emmabellotti.tas,Start
+  30
+   1,J,O
+  32
+
+read,3 - Emmabellotti-StotchSoar.tas,Start
+read,StotchSoar.tas,Start
+  30
+   1,J,O
+  32
+
+read,4 - StotchSoar-alephnull.tas,Start
+read,alephnull.tas,Start
+  30
+   1,J,O
+  32
+
+read,5 - alephnull-vitellary.tas,Start
+read,vitellary.tas,Start
+  30
+   1,J,O
+  32
+
+read,6 - vitellary-tobyaaa.tas,Start
+read,tobyaaa.tas,Start
+  30
+   1,J,O
+  32
+
+read,7 - tobyaaa-QuantumSpaceman.tas,Start
+read,QuantumSpaceman.tas,Start
+  30
+   1,J,O
+  32
+
+read,8 - QuantumSpaceman-xolimono.tas,Start
+read,xolimono.tas,Start
+  30
+   1,J,O
+  32
+
+read,9 - xolimono-MaxBoi.tas,Start
+read,MaxBoi.tas,Start
+  30
+   1,J,O
+  32
+
+read,10 - MaxBoi-gnommis.tas,Start
+read,gnommis.tas,Start
+  30
+   1,J,O
+  32
+
+read,11 - gnommis-hennyburgr.tas,Start
+read,hennyburgr.tas,Start
+  30
+   1,J,O
+  32
+
+read,12 - hennyburgr-Katrina.tas,Start
+read,Katrina.tas,Start
+  30
+   1,J,O
+  32
+
+read,13 - Katrina-Evilleafy.tas,Start
+read,Evilleafy.tas,Start
+  30
+   1,J,O
+  32
+
+read,14 - Evilleafy-Woomii.tas,Start
+read,Woomii.tas,Start
+  30
+   1,J,O
+  32
+
+read,15 - Woomii-pansear.tas,Start
+read,pansear.tas,Start
+  30
+   1,J,O
+  32
+
+read,16 - pansear-iamdadbod.tas,Start
+read,iamdadbod.tas,Start
+  30
+   1,J,O
+  32
+
+read,17 - iamdadbod-Goldian.tas,Start
+read,Goldian.tas,Start
+  30
+   1,J,O
+  32
+
+read,18 - Goldian-Appels.tas,Start
+read,Appels.tas,Start
+  30
+   1,J,O
+  32
+
+read,19 - Appels-End.tas,Start

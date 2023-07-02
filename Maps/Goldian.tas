@@ -1,0 +1,105 @@
+RecordCount: 391
+
+console load EJRCompetitionSeptember2020/1-Main/Goldian 
+   1
+
+#Start
+ 190
+
+#lvl_00_Goldian
+  10,R,X
+  15,R,J
+  18,R,U,X
+   2,R,J
+  15,R
+   6,R,Z
+   1,R,J
+   7,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+  18,R,D,X
+   7,R,J
+   8,R
+  15,D
+   2
+   1,D
+  14
+   5,R
+  15,U,X
+   3,R
+  10,R,J
+  11,R
+   1,R,J
+   1,R
+   1,R,J
+   6,R
+   1,R,J,G
+   1,R,K,G
+   5,R
+   1,R,J
+   3,R
+   2
+  40,R
+   1,J
+  10,R,J
+   7,R
+   1,R,J
+   7,R
+  11,R,J,G
+#stunpause simulate
+#   9,R,J
+#  23,U,X
+#  13,G
+#   2,R,G
+#  34,G
+#   1,D
+#  10,U,X
+#endstunpause
+# 500
+stunpause 
+   9,R,J,G
+skipinput 3 1
+  15,U,X
+   5
+  13,G
+   2,R,G
+   4,G
+  21,R,J,G
+   1,L,J
+   6,R,J
+skipinput 3 1
+  16,U,X
+   1,R,J
+endstunpause
+   4,R,J
+  40
+
+#lvl_01_Goldian
+   1
+  72,O
+   6,R,Z
+   1,R,J
+   4,R
+   1,R,J
+  40
+  
+#lvl_02_Goldian
+   1
+   2,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   3,R
+   1,R,K,G
+   9,R
+   6,R,J
+   6,R,D,X
+   4,R,J,G
+  11,R
+   5,R,J
+   6,R
+  14,R,U,X
+ 135
+
+ChapterTime: 0:20.502(1206)

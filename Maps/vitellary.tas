@@ -1,0 +1,136 @@
+RecordCount: 165
+
+console load EJRCompetitionSeptember2020/1-Main/vitellary
+   1
+
+#Start
+  84
+
+#lvl_01-vitellary
+   1,R,J
+   1
+   2,R
+   1
+  10,R
+  11,R,J
+   7,R
+  16,R,J
+  30,R,K
+  17,R,U,G
+  16,L,U,G
+  12,L,J,G
+   2,R,J,G
+   1,D
+   1,J
+  10,R,J
+   5,R
+  42,R,D,G
+   1,R,J,G
+  78,R,K,G
+  17,R,D,G
+   6,R
+  37,U,X
+   1,R,J
+  16,R,D
+   1,R,J
+   8,R
+ 103,L,X
+   5,K,G
+   3,R,K
+   1,R,J,G
+   4,L,J
+   7,R,J
+   1,R,K,G
+   1,R,J,G
+   2,K
+  40
+
+#lvl_02-vitellary
+   5,R
+   1,R,J,G
+   2,R,K,G
+  64,R,D,J,G
+   9,R,K,G
+  15,R,G
+   1,R
+  21,R,D
+  35,U,X
+  10,L,J
+   2
+  13,L,D
+  19,L,G
+   4,L,J,G
+  14,J,G
+   7,L,K,G
+  20,R
+  43,U,X
+   1,L,J
+  10,L,D
+  26,D,G
+  16,J,G
+   1,L,K,G
+  15,K,G
+   1,J,G
+  27,L,K,G
+   1,R,K
+   1,L,K
+  12,L
+  28,G
+   2,D,G
+   9,G
+   1,D,G
+   5,G
+   2,R
+   1,L
+   1,J,G
+   1,R,K,G
+#too fast :(
+#   1,L,J,G
+   5,R,K
+  17,R,K,G
+   4,R,G
+   1,L
+  19,R
+   1,R,J
+   6,R
+  40
+
+#lvl_03-vitellary
+  10,R
+  47,U,X
+   6,R,J
+   3,R,K
+   1,L,J,G
+   5,R,J
+   3,J
+  80,R,K,G
+  45,R,D,G
+  70,R,G
+  29,R,D,G
+  29,R,U,J,G
+   1,U,J,G
+  30,R,U,J,G
+   6,R,K,G
+  14,K,G
+  13,R,J,G
+  70,R,U,K,G
+  20,R,D,G
+  15,R,G
+  10,G
+  12,D,G
+   8,L,D,G
+  13,R,G
+   1,R,J,G
+  30,R,K,G
+   1,L
+  30,R,J,G
+   1,R,K
+  14,R
+   1,R,J
+   1,R,K
+   3,R,J
+  23,R
+  38,L,X
+ 135
+
+ChapterTime: 0:30.685(1805)
